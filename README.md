@@ -121,7 +121,7 @@ Led a full year of chapter activities including:
 - **PR Pillar Member** (2023/24)
 - Demonstrator — Techno Exhibition 2024 & Exmo'23
 
-### 📡 [IEEE NPSS Student Branch Chapter, UoM]https://lk.linkedin.com/company/ieee-npss-student-branch-chapter-of-university-of-moratuwa)
+### 📡 [IEEE NPSS Student Branch Chapter, UoM](https://lk.linkedin.com/company/ieee-npss-student-branch-chapter-of-university-of-moratuwa)
 - **Past Vice Secretary** (2024/25)
 
 ---
