@@ -10,9 +10,8 @@
 
 **`⚡ Power Systems · Control & Automation · Electrical Installations`**
 
-Hi, I'm Ushan — a final year Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka (CGPA 3.46).
+Hi, I'm Ushan, a final year Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka.
 I'm passionate about power systems, electrical installations, and control engineering.
-Past Chairperson of the **IEEE PES Student Branch Chapter** at UoM (2024/25).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ushan-muditha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00c8ff?style=for-the-badge&logo=github&logoColor=white)](https://ushanmuditha.github.io)
@@ -74,9 +73,9 @@ Past Chairperson of the **IEEE PES Student Branch Chapter** at UoM (2024/25).
 
 | # | Organization | Focus | Period |
 |---|---|---|---|
-| 🔥 | **Ceylon Electricity Board (CEB)** | Hydro & Thermal Power Generation — Lakvijaya (900 MW) · Victoria (210 MW) | Dec 2024 – Jan 2025 |
-| 🔌 | **Lanka Electricity Company (LECO)** | Distribution System Operations · LV Design · Solar PV Integration | Jan 2025 – Mar 2025 |
-| 🏗️ | **Trade Promoters Ltd (TPL)** | Schindler Elevator Systems · ARD · VVVF · Cummins Generators | Mar 2025 – Jun 2025 |
+| 🔥 | **Ceylon Electricity Board** | Hydro & Thermal Power Generation — Lakvijaya (900 MW) · Victoria (210 MW) | Dec 2024 – Jan 2025 |
+| 🔌 | **Lanka Electricity Company (Private) Limited** | Distribution System Operations · LV Design · Solar PV Integration | Jan 2025 – Mar 2025 |
+| 🏗️ | **Trade Promoters (Private) Limited** | Schindler Elevator Systems · ARD · VVVF · Cummins Generators | Mar 2025 – Jun 2025 |
 
 ---
 
@@ -105,7 +104,7 @@ Past Chairperson of the **IEEE PES Student Branch Chapter** at UoM (2024/25).
 
 ## 🏛️ Leadership & Activities
 
-### 📡 IEEE Power & Energy Society — Student Branch Chapter, UoM
+### 📡 [IEEE Power & Energy Society — Student Branch Chapter, UoM](http://ieee-pes.uom.lk/)
 **Past Chairperson** (2024/25) · Organizing Committee (2023/24)
 
 Led a full year of chapter activities including:
