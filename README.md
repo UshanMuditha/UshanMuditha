@@ -116,12 +116,12 @@ Led a full year of chapter activities including:
 - 🔋 **Introduction to Microgrids** session
 - 🤖 Collaboration on **Transforming Power Sector with AI** (IEEE PES Sri Lanka Chapter × EESoc)
 
-### ⚙️ IESL Student Chapter, UoM
+### ⚙️ [IESL Student Chapter, UoM](https://ieslsc.uom.lk/)
 - **Head of Operations & Logistics** — Exhibition Committee (2024/25)
 - **PR Pillar Member** (2023/24)
 - Demonstrator — Techno Exhibition 2024 & Exmo'23
 
-### 📡 IEEE NPSS Student Branch Chapter, UoM
+### 📡 [IEEE NPSS Student Branch Chapter, UoM]https://lk.linkedin.com/company/ieee-npss-student-branch-chapter-of-university-of-moratuwa)
 - **Past Vice Secretary** (2024/25)
 
 ---
@@ -130,14 +130,14 @@ Led a full year of chapter activities including:
 
 | Degree | Institution | Period | Result |
 |---|---|---|---|
-| BSc (Hons) Electrical Engineering | University of Moratuwa | 2022 – Present | CGPA 3.46 |
+| BSc (Hons) Electrical Engineering | University of Moratuwa | 2022 – 2026 | CGPA 3.46 |
 | Bachelor of Information Technology (External) | University of Moratuwa | 2023 – Present | In Progress |
 | G.C.E. Advanced Level | Ananda College, Colombo 10 | 2018 – 2021 | 3 A's · Z Score 2.0843 |
 | G.C.E. Ordinary Level | Asoka Vidyalaya, Colombo 10 | 2012 – 2018 | 9 A's |
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UshanMuditha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00d4ff&icon_color=f0a500&text_color=8a9bbf" height="160" />
@@ -147,7 +147,7 @@ Led a full year of chapter activities including:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UshanMuditha&theme=tokyonight&hide_border=true&background=0a0e17&stroke=253050&ring=00d4ff&fire=f0a500&currStreakLabel=00d4ff&sideLabels=8a9bbf&dates=4a5a7a" />
 </div>
-
+-->
 ---
 
 ## 📫 Get in Touch
