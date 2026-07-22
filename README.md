@@ -14,9 +14,9 @@ Hi, I'm Ushan, a final year Electrical Engineering undergraduate at the Universi
 I'm passionate about power systems, electrical installations, and control engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ushan-muditha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00c8ff?style=for-the-badge&logo=github&logoColor=white)](https://ushanmuditha.github.io)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-00c8ff?style=for-the-badge&logo=github&logoColor=white)](https://ushanmuditha.github.io) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ushanmuditha2001@gmail.com)
-[![IEEE PES UoM](https://img.shields.io/badge/IEEE%20PES%20UoM-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://site.ieee.org/sb-uom-pes/)
+[![IEEE PES UoM](https://img.shields.io/badge/IEEE%20PES%20UoM-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee-pes.uom.lk/)
 
 </div>
 
@@ -27,7 +27,7 @@ I'm passionate about power systems, electrical installations, and control engine
 ```
 🏛️  University of Moratuwa, Sri Lanka
 📐  BSc (Hons) Electrical Engineering (Final Year)  +  BIT External
-📊  CGPA: 3.46  |  Minor: Mathematics
+📊  CGPA: 3.52  |  Minor: Mathematics
 ⚡  Interests: Power Systems · Electrical Installations · Control & Automation
 📍  Kolonnawa, Sri Lanka
 🌐  Languages: Sinhala (Native) · Tamil (Bilingual) · English (Professional)
